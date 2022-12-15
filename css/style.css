@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+}
+/* header */
+
+.logo_box{
+    display: flex;    
+}
+
+img {
+    width: 150px;
+}
+
+.logo_text {
+    height: 100%;
+    font-size: 2rem;
+    color: rgb(85, 85, 85);
+}
+
+.navbar {
+    display: flex;
+    padding: 1rem;
+}
+
+.navbar li {
+    padding: 0 1rem;
+    list-style: none;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: rgb(85, 85, 85);
+}
+
+.navbar a:hover {
+    color: rgb(201, 201, 201);
+    background-color: rgb(2, 174, 241);
+}
+/* main */
+
+.container {
+    padding: 2rem 6rem;
+}

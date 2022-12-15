@@ -75,66 +75,72 @@ $arrFaq = [
     </h2>
     STR,
     'response' => <<<STR
-    1 
+    <p>Sappiamo che la sicurezza e la privacy sono importanti per te e lo sono anche per noi. Per noi è imperativo offrire un'elevata sicurezza e assicurarti che le tue informazioni sono al sicuro e accessibili quando ne hai bisogno.</p>
+
+    <p>Siamo costantemente al lavoro per garantire un'elevata sicurezza, proteggere la tua privacy e rendere Google ancora più efficace ed efficiente per te. Spendiamo centinaia di milioni di dollari ogni anno per la sicurezza e ci avvaliamo di esperti di fama mondiale in materia di sicurezza dei dati per mantenere le tue informazioni al sicuro. Abbiamo inoltre sviluppato strumenti per la sicurezza e la privacy di facile utilizzo come Google Dashboard, la verifica in due passaggi e le impostazioni relative agli annunci personalizzati disponibili in Il mio centro per gli annunci. Così, per quanto riguarda le informazioni che condividi con Google, hai il massimo controllo.</p>
+
+    <p>Puoi leggere ulteriori informazioni sulla sicurezza online, incluso come proteggere te e la tua famiglia online, nel Centro Google per la sicurezza online.</p>
+
+    <p>Scopri quali misure adottiamo per garantire protezione e sicurezza alle tue informazioni personali, lasciando a te il controllo.</p> 
     STR,
   ],
   [
     'question' => <<<STR
-    <h2 class="SbNcad">Perché il mio account è associato a un paese?</h2>
+      <h2 class="SbNcad">Perché il mio account è associato a un paese?</h2>
     STR,
     'response' => <<<STR
-    <p>
-      Il tuo account è associato a un paese (o territorio) nei Termini di
-      servizio per poter stabilire due cose:
-    </p>
-    <ol>
-      <li class="smANld">
-        La società consociata Google che offre i servizi, tratta le tue
-        informazioni ed è responsabile del rispetto delle leggi sulla privacy
-        vigenti. Generalmente Google offre i propri servizi per i consumatori
-        tramite una delle due società seguenti:
-        <ol type="a">
-          <li class="smANld">
-            Google Ireland Limited, se gli utenti sono residenti nello Spazio
-            economico europeo (paesi dell'Unione europea, oltre a Islanda,
-            Liechtenstein e Norvegia) o in Svizzera.
-          </li>
-          <li class="smANld">
-            Google LLC, con sede negli Stati Uniti, per il resto del mondo.
-          </li>
-        </ol>
-      </li>
-      <li class="smANld">
-        La versione dei termini che regola il nostro rapporto, che può variare
-        in base alle leggi locali.
-      </li>
-    </ol>
-    <p>
-      Tieni presente che i servizi Google sono fondamentalmente gli stessi a
-      prescindere dalla società consociata che li offre o dal paese a cui è
-      associato il tuo account.
-    </p>
-    <h3>Stabilire il paese associato al tuo account</h3>
-    <p>
-      Quando crei un nuovo Account Google, lo associamo a un paese in base a
-      dove è stato creato. Per quanto riguarda gli account creati almeno un
-      anno fa, usiamo il paese da cui accedi solitamente ai servizi Google, in
-      genere i servizi in cui hai trascorso più tempo nell'ultimo anno.
-    </p>
-    <p>
-      I viaggi frequenti solitamente non influiscono sul paese associato al
-      tuo account. Se ti trasferisci in un altro paese, potrebbe occorrere
-      circa un anno per aggiornare l'associazione del paese.
-    </p>
-    <p>
-      Se il paese associato al tuo account non corrisponde al tuo paese di
-      residenza, il motivo potrebbe essere la differenza tra il paese in cui
-      lavori e il paese in cui risiedi, l'installazione di una rete privata
-      virtuale (VPN) per mascherare il tuo indirizzo IP oppure la residenza
-      vicino a un confine territoriale.
-      <a href="country-association-form">Contattaci</a> se ritieni che il
-      paese associato al tuo account sia sbagliato.
-    </p>
+      <p>
+        Il tuo account è associato a un paese (o territorio) nei Termini di
+        servizio per poter stabilire due cose:
+      </p>
+      <ol>
+        <li class="smANld">
+          La società consociata Google che offre i servizi, tratta le tue
+          informazioni ed è responsabile del rispetto delle leggi sulla privacy
+          vigenti. Generalmente Google offre i propri servizi per i consumatori
+          tramite una delle due società seguenti:
+          <ol type="a">
+            <li class="smANld">
+              Google Ireland Limited, se gli utenti sono residenti nello Spazio
+              economico europeo (paesi dell'Unione europea, oltre a Islanda,
+              Liechtenstein e Norvegia) o in Svizzera.
+            </li>
+            <li class="smANld">
+              Google LLC, con sede negli Stati Uniti, per il resto del mondo.
+            </li>
+          </ol>
+        </li>
+        <li class="smANld">
+          La versione dei termini che regola il nostro rapporto, che può variare
+          in base alle leggi locali.
+        </li>
+      </ol>
+      <p>
+        Tieni presente che i servizi Google sono fondamentalmente gli stessi a
+        prescindere dalla società consociata che li offre o dal paese a cui è
+        associato il tuo account.
+      </p>
+      <h3>Stabilire il paese associato al tuo account</h3>
+      <p>
+        Quando crei un nuovo Account Google, lo associamo a un paese in base a
+        dove è stato creato. Per quanto riguarda gli account creati almeno un
+        anno fa, usiamo il paese da cui accedi solitamente ai servizi Google, in
+        genere i servizi in cui hai trascorso più tempo nell'ultimo anno.
+      </p>
+      <p>
+        I viaggi frequenti solitamente non influiscono sul paese associato al
+        tuo account. Se ti trasferisci in un altro paese, potrebbe occorrere
+        circa un anno per aggiornare l'associazione del paese.
+      </p>
+      <p>
+        Se il paese associato al tuo account non corrisponde al tuo paese di
+        residenza, il motivo potrebbe essere la differenza tra il paese in cui
+        lavori e il paese in cui risiedi, l'installazione di una rete privata
+        virtuale (VPN) per mascherare il tuo indirizzo IP oppure la residenza
+        vicino a un confine territoriale.
+        <a href="country-association-form">Contattaci</a> se ritieni che il
+        paese associato al tuo account sia sbagliato.
+      </p>
     STR,
   ],
   [
@@ -205,6 +211,7 @@ $arrFaq = [
   ],
 ];
 // var_dump($arrFaq);
+$list = array('Introduzione', 'Norme sulla privacy', 'Termini di servizio', 'Tecnologie', 'Domande frequenti');
 ?>
 
 <!DOCTYPE html>
@@ -215,10 +222,21 @@ $arrFaq = [
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Php Google faq</title>
+  <link rel="stylesheet" href="css/style.css">
 </head>
-
 <body>
-  <header></header>
+  <header>
+    <div class="logo_box">
+      <img src="http://www.google.com/logos/doodles/2015/googles-new-logo-5078286822539264.3-hp2x.gif">
+      <div class="logo_text"><a>Privacy & Termini</a></div>
+    </div>
+    <ul class="navbar">
+      <?php foreach ($list as $value){?>
+      <li><a href="#!"><?= $value ?></a></li>
+      <?php } ?>
+    </ul>
+    <hr>
+  </header>
   <main>
     <div class="container">
       <?php foreach ($arrFaq as $value) { ?>
