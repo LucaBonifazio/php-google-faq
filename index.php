@@ -228,7 +228,7 @@ $list = array('Introduzione', 'Norme sulla privacy', 'Termini di servizio', 'Tec
   <header>
     <div class="logo_box">
       <img src="http://www.google.com/logos/doodles/2015/googles-new-logo-5078286822539264.3-hp2x.gif">
-      <div class="logo_text"><a>Privacy & Termini</a></div>
+      <div class="logo_text"><a href="#!">Privacy & Termini</a></div>
     </div>
     <ul class="navbar">
       <?php foreach ($list as $value){?>
