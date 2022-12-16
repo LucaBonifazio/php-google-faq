@@ -2,41 +2,27 @@
 $arrFaq = [
   [
     'question' => <<<STR
-    <h2 class="SbNcad">
+      <h2 class="SbNcad">
       Come state implementando la recente decisione della Corte di giustizia
       dell'Unione europea (CGUE) relativa al diritto all'oblio?
-    </h2>
+      </h2>
     STR,
     'response' => <<<STR
-    <p>
-    La recente
-    <a
-      href="http://curia.europa.eu/juris/document/document.jsf?             text=&amp;docid=152065&amp;amppageIndex=0&amp;doclang=it&amp;mode=lst&amp;dir=&amp;occ=first&amp;part=1&amp;cid=276332"
-      >decisione della Corte di giustizia dell'Unione europea</a
-    >
-    ha profonde conseguenze per i motori di ricerca in Europa. La Corte ha
-    stabilito che alcuni utenti hanno il diritto di chiedere ai motori di
-    ricerca come Google di rimuovere risultati relativi a chiavi di ricerca
-    che includono il proprio nome. Per poter essere rimossi, i risultati
-    visualizzati devono essere inadeguati, irrilevanti o non più rilevanti,
-    o eccessivi.
-    </p>
-    <p>
-      Da quando questa decisione è stata pubblicata il 13 maggio 2014, abbiamo
+      <p>La recente <a href="http://curia.europa.eu/juris/document/document.jsf? text=&amp;docid=152065&amp;amppageIndex=0&amp;doclang=it&amp;mode=lst&amp;dir=&amp;occ=first&amp;part=1&amp;cid=276332"
+      >decisione della Corte di giustizia dell'Unione europea</a> ha profonde conseguenze per i motori di ricerca in Europa. La Corte ha stabilito che alcuni utenti hanno il diritto di chiedere ai motori di
+      ricerca come Google di rimuovere risultati relativi a chiavi di ricerca
+      che includono il proprio nome. Per poter essere rimossi, i risultati
+      visualizzati devono essere inadeguati, irrilevanti o non più rilevanti,
+      o eccessivi.
+      </p>
+      <p>Da quando questa decisione è stata pubblicata il 13 maggio 2014, abbiamo
       lavorato incessantemente per uniformarci a essa. Si tratta di una
       procedura complessa perché dobbiamo valutare ogni singola richiesta e
       effettuare un bilanciamento tra il diritto dell'individuo a controllare
       i suoi dati personali ed il diritto di tutti di conoscere e distribuire
       le informazioni.
-    </p>
-    <p>
-      Per presentare una richiesta di rimozione, compila questo
-      <a
-        href="https://support.google.com/legal/contact/lr_eudpa?product=websearch&amp;hl=it"
-        >modulo web</a
-      >. Riceverai una risposta automatica che conferma la ricezione della tua
-      richiesta. Dopodiché valuteremo il tuo caso (tieni presente che potrebbe
-      occorrere un po' di tempo perché abbiamo già ricevuto tante richieste
+      </p>
+      <p>Per presentare una richiesta di rimozione, compila questo <a href="https://support.google.com/legal/contact/lr_eudpa?product=websearch&amp;hl=it">modulo web</a>. Riceverai una risposta automatica che conferma la ricezione della tua richiesta. Dopodiché valuteremo il tuo caso (tieni presente che potrebbeo occorrere un po' di tempo perché abbiamo già ricevuto tante richieste
       simili). Nel valutare la richiesta, considereremo se i risultati
       includono informazioni obsolete relative alla tua vita privata.
       Considereremo inoltre se vi è un interesse pubblico a che le
@@ -48,8 +34,8 @@ $arrFaq = [
       prendere decisioni in merito al tuo caso. Se non sei d'accordo con la
       nostra valutazione, puoi rivolgerti all'Autorità garante per la
       protezione dei dati personali nel tuo paese.
-    </p>
-    <p>
+      </p>
+      <p>
       Nei prossimi mesi lavoreremo a stretto contatto con le autorità per la
       protezione dei dati e con altre autorità per perfezionare il nostro
       approccio. La decisione della CGUE rappresenta un cambiamento
@@ -57,14 +43,14 @@ $arrFaq = [
       conseguenze, ma riteniamo anche che sia importante rispettare la
       decisione della Corte e ci stiamo adoperando per predisporre una
       procedura conforme alla legge.
-    </p>
-    <p>
+     </p>
+      <p>
       Quando cerchi un nome, potresti trovare una notifica in cui viene
       spiegato che i risultati potrebbero essere stati modificati nel rispetto
       delle leggi europee per la protezione dei dati. Mostriamo questa
       notifica agli utenti europei quando cercano la maggior parte dei nomi,
       non soltanto le pagine che sono state soggette a una rimozione.
-    </p>
+      </p>
     STR,
   ],
   [
